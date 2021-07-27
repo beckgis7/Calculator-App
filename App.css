@@ -46,6 +46,7 @@ div {
 .plus{
   /* padding: 30% 0; */
   font-size: 2em;
+  font-weight: 600;
 }
 .ans{
   border: coral 4px solid;
